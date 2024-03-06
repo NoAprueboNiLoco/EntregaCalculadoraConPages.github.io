@@ -1,6 +1,0 @@
-tittle: Calculadora
-lang: es
-description: Calculadora con cálculo de longitudes y pesos
-remote_theme: pages-themes/architect@v0.2.0
-plugins:
-  - jekyll-remote-theme
